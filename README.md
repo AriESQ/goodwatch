@@ -93,7 +93,7 @@ charlieplexed array of LEDs instead of a Casio watchcase.
 3208 casings as the GoodWatch, but uses a PIC16 platform with
 accelerometer, compass and environmental sensors.
 
-[FaradayRF](https://faradayrf.com/) is a CC430 radio board intended
+[FaradayRF](https://web.archive.org/web/20190425014408/https://faradayrf.com/) is a CC430 radio board intended
 for amateur use, with a 500mW amplifier and GPS receiver.  Their radio
 chain is far more carefully designed than ours, but in time, we hope
 that the two projects will communicate with each other.
